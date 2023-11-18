@@ -18,3 +18,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 source code by : [Codeforany](https://github.com/codeforany/book_grocer_flutter_3_ui)
+
+[Release Page](https://github.com/Dzikri7/flutter_apk)
